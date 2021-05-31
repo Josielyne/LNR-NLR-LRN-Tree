@@ -1,0 +1,4 @@
+﻿  TreeA.cpp
+c:\users\josel\documents\visual studio 2015\projects\treeassignment\treeassignment\treea.cpp(379): warning C4715: 'UserChoice': not all control paths return a value
+  TreeAssignment.vcxproj -> C:\Users\Josel\documents\visual studio 2015\Projects\TreeAssignment\Debug\TreeAssignment.exe
+  TreeAssignment.vcxproj -> C:\Users\Josel\documents\visual studio 2015\Projects\TreeAssignment\Debug\TreeAssignment.pdb (Full PDB)
